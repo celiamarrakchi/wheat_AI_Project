@@ -1,5 +1,6 @@
-# Smart Wheat Farming AI System
-## Overview
+# 🌾 Smart Wheat Farming AI System
+
+## 📝 Overview
 This project, **Smart Wheat Farming AI System**, was developed by AI students at **Esprit School of Engineering** as part of an academic project.  
 It leverages artificial intelligence to tackle key agricultural challenges related to wheat farming in Tunisia.  
 The work is divided into six main axes:
@@ -12,7 +13,7 @@ The work is divided into six main axes:
 
 This project is hosted on GitHub using **GitHub Education tools** and aims to support sustainable agriculture through intelligent technologies.
 
-## Features
+## ⚙️ Features
 - Deep learning models for plant disease classification and detection.
 - Object detection models for pests and weeds.
 - Computer vision-based growth stage monitoring.
@@ -20,16 +21,16 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 - Soil data analysis using machine learning.
 - Modular and scalable design for future agricultural extensions.
 
-### Frontend
+### 🖥️ Frontend
 - React.js 
 - HTML5 / CSS 
 
-### Backend
+### 💻 Backend
 - Python (main AI logic)
 - FastAPI or Flask (for serving models as APIs)
 - Jupyter Notebooks (for experimentation and prototyping)
 
-### Other Tools
+### 🛠️ Other Tools
 - TensorFlow / PyTorch (for AI model training)
 - OpenCV (for image preprocessing and analysis)
 - Git & GitHub (version control and collaboration)
@@ -38,7 +39,7 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 - LabelImg / Roboflow (for dataset labeling)
 
 ## 📁 Modules
-| Axis | Description |
+| 🌱 Axis | ✍️ Description |
 |------|-------------|
 | **Disease Detection** | CNN for identifying fungal and bacterial infections |
 | **Pest Detection** | YOLO-based detection of wheat-eating insects |
@@ -52,4 +53,3 @@ This project was created by a student team at **Esprit School of Engineering** u
 
 ## 🔑 Keywords
 Esprit School of Engineering | AI in Agriculture | Wheat | Disease Detection | Pest Control | Soil Quality | Deep Learning | Smart Farming | YOLO | TensorFlow | Python
-

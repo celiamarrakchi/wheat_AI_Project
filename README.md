@@ -44,7 +44,7 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 | **Disease Detection**     | Identifying fungal and bacterial infections                   |
 | **Pest Detection**        | Detection of wheat-eating insects                             |
 | **Weed Detection**        | Identifying weed regions                                      |
-| **Production Quality**    | Machine learning for production analysis                      |
+| **Production Quality**    | Detecting crop health status                      |
 | **Growth Monitoring**     | Time-series analysis of wheat growth                          |
 | **Soil Quality**          | Classification models based on pH, moisture, and nutrients via satellite/drone images |
 

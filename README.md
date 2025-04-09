@@ -39,17 +39,19 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 - LabelImg / Roboflow (for dataset labeling)
 
 ## 📁 Modules
-| 🌱 Axis | ✍️ Description |
-|------|-------------|
-| **Disease Detection** | CNN for identifying fungal and bacterial infections |
-| **Pest Detection** | YOLO-based detection of wheat-eating insects |
-| **Weed Detection** | Semantic segmentation to identify weed regions |
-| **Production Quality** | Data visualization + ML for production analysis |
-| **Growth Monitoring** | Time-series analysis of growth via satellite/drone images |
-| **Soil Quality** | Classification models based on pH, moisture, and nutrients |
+| 🌱 **Axis**               | ✍️ **Description**                                             |
+|--------------------------|---------------------------------------------------------------|
+| **Disease Detection**     | Identifying fungal and bacterial infections                   |
+| **Pest Detection**        | Detection of wheat-eating insects                             |
+| **Weed Detection**        | Identifying weed regions                                      |
+| **Production Quality**    | Machine learning for production analysis                      |
+| **Growth Monitoring**     | Time-series analysis of wheat growth                          |
+| **Soil Quality**          | Classification models based on pH, moisture, and nutrients via satellite/drone images |
 
 ## 🏫 Acknowledgment
-This project was created by a student team at **Esprit School of Engineering** under the Challenge-Based Learning methodology.
+This project was created by a student team at **Esprit School of Engineering** under the Challenge-Based Learning methodology. 
+It was completed under the guidance of [Professor Ines](ines.slimen@esprit.tn) and [Professor Dorsaf](dorsaf.hrizi@esprit.tn).
+
 
 ## 🔑 Keywords
 Esprit School of Engineering | AI in Agriculture | Wheat | Disease Detection | Pest Control | Soil Quality | Deep Learning | Smart Farming | YOLO | TensorFlow | Python

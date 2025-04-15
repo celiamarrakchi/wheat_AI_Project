@@ -1,0 +1,1 @@
+{"weights": [0.4, 0.3, 0.3], "accuracy": 0.8431635388739946, "teacher_model": "vit_insect_classifier.pth", "resnet_model": "resnet50_distilled.pth", "efficientnet_model": "efficientnet_b2_distilled.pth"}

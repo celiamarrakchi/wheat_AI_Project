@@ -54,6 +54,7 @@ To keep the repository lightweight and manageable, each contributor has hosted t
 
 This approach ensures modularity and keeps the repository clean.
 Model Links:
+
 Disease Detection Model: [Google Drive Link](https://drive.google.com/drive/folders/1RFmHAqxii8_ut0i-W2dJ5QUA8dmnL2nN?usp=sharing)
 
 Pest Detection Model: 

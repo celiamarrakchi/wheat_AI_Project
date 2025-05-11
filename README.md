@@ -1,5 +1,5 @@
 # 🌾 Smart Wheat Farming AI System
-
+<img src="https://www.appventurez.com/wp-content/uploads/2022/06/role-of-ai-in-agriculture.jpg" alt="header" width="700"/>
 ## 📝 Overview
 This project, **Smart Wheat Farming AI System**, was developed by AI students at **Esprit School of Engineering** as part of an academic project.  
 It leverages artificial intelligence to tackle key agricultural challenges related to wheat farming in Tunisia.  
@@ -9,7 +9,7 @@ The work is divided into six main axes:
 - Weed Detection
 - Production Quality Assessment
 - Plant Growth Monitoring
-- Soil Quality Analysis
+- Satellite image segmentation
 
 This project is hosted on GitHub using **GitHub Education tools** and aims to support sustainable agriculture through intelligent technologies.
 
@@ -18,16 +18,16 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 - Object detection models for pests and weeds.
 - Computer vision-based growth stage monitoring.
 - Quality assessment metrics for wheat production.
-- Soil data analysis using machine learning.
+- Satellite image segmentation for better decisions.
 - Modular and scalable design for future agricultural extensions.
 
 ### 🖥️ Frontend
-- React.js 
+- python.js 
 - HTML5 / CSS 
 
 ### 💻 Backend
 - Python (main AI logic)
-- FastAPI or Flask (for serving models as APIs)
+- Streamlit (for serving models as APIs)
 - Jupyter Notebooks (for experimentation and prototyping)
 
 ### 🛠️ Other Tools
@@ -37,6 +37,7 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 - GitHub Education (free hosting, tools like Heroku, Namecheap)
 - Google Colab (for training experiments)
 - LabelImg / Roboflow (for dataset labeling)
+- crewai (for the agentic system)
 
 ## 📁 Modules
 | 🌱 **Axis**               | ✍️ **Description**                                             |
@@ -46,7 +47,7 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 | **Weed Detection**        | Identifying weed regions                                      |
 | **Production Quality**    | Detecting crop health status                      |
 | **Growth Monitoring**     | Time-series analysis of wheat growth                          |
-| **Soil Quality**          | Classification models based on pH, moisture, and nutrients via satellite/drone images |
+| **Satellite image segmentation**|   segmentation based on Satellite images/drone images |
 
 ## ☁️ Model Access
 To keep the repository lightweight and manageable, each contributor has hosted their pre-trained models on their own Google Drive.
@@ -65,7 +66,7 @@ Production Quality Assessment Model: [Google Drive Link](https://drive.google.co
 
 Growth Monitoring Model: [Google Drive Link](https://drive.google.com/drive/folders/1xe4for2IwYNu2D6DHqHkdcPKnpur55tb?usp=sharing)
 
-Satellite image segmentation Model: [https://drive.google.com/drive/folders/1Siug2bJ5S9Cm1_ViaUczUgfAKSbi7swB?usp=sharing]
+Satellite image segmentation Model: [Google Drive Link](https://drive.google.com/drive/folders/1Siug2bJ5S9Cm1_ViaUczUgfAKSbi7swB?usp=sharing)
 
 ## 🏫 Acknowledgment
 This project was created by a student team at **Esprit School of Engineering** under the Challenge-Based Learning methodology. 

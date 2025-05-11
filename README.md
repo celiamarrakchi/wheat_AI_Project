@@ -22,7 +22,7 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 - Modular and scalable design for future agricultural extensions.
 
 ### 🖥️ Frontend
-- python.js 
+- python
 - HTML5 / CSS 
 
 ### 💻 Backend

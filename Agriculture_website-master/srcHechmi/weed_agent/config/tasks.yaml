@@ -1,0 +1,14 @@
+tasks:
+  - name: weed_classification_task
+    agent: weed_classifier_agent
+    tools:
+      - WeedClassifierTool
+    input:
+      image_paths: []  # Sera rempli dynamiquement
+
+  - name: weed_solution_task
+    agent: info_search_agent
+    tools:
+      - WebSearchTool
+    input:
+      query: "{{ weed_classification_task.predictions }}"

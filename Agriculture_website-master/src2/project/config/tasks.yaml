@@ -1,0 +1,26 @@
+tasks:
+  - name: classify_harvest_disease_task
+    description: >
+      Classify images of harvested wheat crops to identify possible diseases.
+      Ensure robustness to varying image quality, lighting, and harvesting conditions.
+    expected_output: >
+      A list of predictions indicating the disease class for each input image of harvested wheat.
+    agent: harvest_disease_classifier_agent
+    tools:
+      - HarvestWheatDiseaseDetectionTool
+    input:
+      image_paths:
+        - src2/project/images/image_test.jpg
+        - src2/project/images/image_test1.jpg
+        - src2/project/images/image_test2.jpg
+        - src2/project/images/image_test3.jpg
+        - src2/project/images/image_test4.jpg
+
+  - name: solution_task
+    description: >
+      Provide treatment or solution information for each predicted disease using external sources.
+    agent: harvest_disease_classifier_agent
+    tools:
+      - solutionWebsiteSearchTool
+    input:
+      predictions: "{{classify_harvest_disease_task.output.predictions}}"

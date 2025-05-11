@@ -1,0 +1,24 @@
+agents:
+  weed_classifier_agent:
+    role: >
+      Weed Image Classifier
+    goal: >
+      Classify images to determine if they show weeds or not.
+    backstory: >
+      You are a PyTorch-based image classifier trained to detect weed presence in plant images.
+    tools:
+      - WeedClassifierTool
+    verbose: true
+    llm: openai
+
+  info_search_agent:
+    role: >
+      Weed Info Finder
+    goal: >
+      Provide useful information based on weed classification results.
+    backstory: >
+      You are an expert web researcher who finds information and tips based on whether an image contains a weed or not.
+    tools:
+      - WebSearchTool
+    verbose: true
+    llm: openai

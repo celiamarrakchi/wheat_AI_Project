@@ -1,0 +1,209 @@
+[
+    {
+        "image": "src/deseasedetect/images\\20250429_201609_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_201609_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_212811_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_212811_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_214516_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_214516_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_215043_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_215043_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_215630_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_215630_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220007_leafrust113_jpg.rf.05979101de966e936d473e80ecd7d4aa.jpg",
+        "disease": "Wheat Brown-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220007_leafrust113_jpg.rf.05979101de966e936d473e80ecd7d4aa.jpg",
+        "disease": "Wheat Brown-rust",
+        "info": "Wheat leaf rust (Puccinia triticina) is a fungal disease that affects wheat, barley, rye stems, leaves and grains. In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss. ... Small brown pustules develop on the leaf blades in a random scatter distribution. They may group ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220235_leafrust213_jpg.rf.706e040d9970cc568d2eea68c4cd9349.jpg",
+        "disease": "Wheat Brown-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220235_leafrust213_jpg.rf.706e040d9970cc568d2eea68c4cd9349.jpg",
+        "disease": "Wheat Brown-rust",
+        "info": "Wheat leaf rust (Puccinia triticina) is a fungal disease that affects wheat, barley, rye stems, leaves and grains. In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss. ... Small brown pustules develop on the leaf blades in a random scatter distribution. They may group ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220624_yellow_rust.jpg",
+        "disease": "Wheat Stem Rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220624_yellow_rust.jpg",
+        "disease": "Wheat Stem Rust",
+        "info": "Learn about the common name, scientific name, host range, life cycle, and epidemiology of wheat stem rust, a fungal disease that causes severe yield loss and grain shriveling. Find out how to identify, prevent, and control this disease with resistance genes and cultural practices."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220718_brown.jpg",
+        "disease": "Wheat Brown-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220718_brown.jpg",
+        "disease": "Wheat Brown-rust",
+        "info": "Wheat leaf rust (Puccinia triticina) is a fungal disease that affects wheat, barley, rye stems, leaves and grains. In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss. ... Small brown pustules develop on the leaf blades in a random scatter distribution. They may group ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220732_brown.jpg",
+        "disease": "Wheat Brown-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250429_220732_brown.jpg",
+        "disease": "Wheat Brown-rust",
+        "info": "Wheat leaf rust (Puccinia triticina) is a fungal disease that affects wheat, barley, rye stems, leaves and grains. In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss. ... Small brown pustules develop on the leaf blades in a random scatter distribution. They may group ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250430_055401_d93db95d0cec2d0c855950e88ac275f2-9c7bf23ff9_bcroiss01c-header01.jpg",
+        "disease": "Wheat Stem Rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250430_055401_d93db95d0cec2d0c855950e88ac275f2-9c7bf23ff9_bcroiss01c-header01.jpg",
+        "disease": "Wheat Stem Rust",
+        "info": "Learn about the common name, scientific name, host range, life cycle, and epidemiology of wheat stem rust, a fungal disease that causes severe yield loss and grain shriveling. Find out how to identify, prevent, and control this disease with resistance genes and cultural practices."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_145514_20250429_220231_leafrust213_jpg.rf.706e040d9970cc568d2eea68c4cd9349.jpg",
+        "disease": "Wheat Brown-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_145514_20250429_220231_leafrust213_jpg.rf.706e040d9970cc568d2eea68c4cd9349.jpg",
+        "disease": "Wheat Brown-rust",
+        "info": "Wheat leaf rust (Puccinia triticina) is a fungal disease that affects wheat, barley, rye stems, leaves and grains. In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss. ... Small brown pustules develop on the leaf blades in a random scatter distribution. They may group ..."
+    },
+    {
+        "image": "src2/project/images\\20250501_152305_image_test.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src2/project/images\\20250501_152305_image_test.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src2/project/images\\20250501_152531_image_test.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src2/project/images\\20250501_152531_image_test.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_152645_image (4).jpg",
+        "disease": "Wheat Stem Rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_152645_image (4).jpg",
+        "disease": "Wheat Stem Rust",
+        "info": "Learn about the common name, scientific name, host range, life cycle, and epidemiology of wheat stem rust, a fungal disease that causes severe yield loss and grain shriveling. Find out how to identify, prevent, and control this disease with resistance genes and cultural practices."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_152823_image (2).jpg",
+        "disease": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_152823_image (2).jpg",
+        "disease": "Wheat-Yellow-rust",
+        "info": "Wheat yellow rust (Puccinia striiformis f.sp. tritici), also known as wheat stripe rust, is one of the three major wheat rust diseases, along with stem rust of wheat (Puccinia graminis f.sp. tritici) and leaf rust (Puccinia triticina f.sp. tritici). History."
+    },
+    {
+        "image": "src2/project/images\\20250501_154107_image_test3.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src2/project/images\\20250501_154107_image_test3.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_154324_image_test.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250501_154324_image_test.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_183741_annotated_20250430_055401_d93db95d0cec2d0c855950e88ac275f2-9c7bf23ff9_bcroiss01c-header01.jpg",
+        "disease": "Wheat Stem Rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_183741_annotated_20250430_055401_d93db95d0cec2d0c855950e88ac275f2-9c7bf23ff9_bcroiss01c-header01.jpg",
+        "disease": "Wheat Stem Rust",
+        "info": "Learn about the common name, scientific name, host range, life cycle, and epidemiology of wheat stem rust, a fungal disease that causes severe yield loss and grain shriveling. Find out how to identify, prevent, and control this disease with resistance genes and cultural practices."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_184651_20250501_152300_image_test.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_184651_20250501_152300_image_test.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Wheat is a cereal grain grown in many varieties worldwide. It provides antioxidants, vitamins, minerals, and fiber. Many baked goods contain white and whole-wheat flour."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_190439_20250501_152300_image_test.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_190439_20250501_152300_image_test.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_190915_20250501_154103_image_test3.jpg",
+        "disease": "Wheat Healthy"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250502_190915_20250501_154103_image_test3.jpg",
+        "disease": "Wheat Healthy",
+        "info": "Health Benefits of Wheat. Wheat is a good source of carbohydrates and some vitamins and minerals. Whole wheat, in particular, has many benefits for your health. ..."
+    },
+    {
+        "image": "src/deseasedetect/images\\20250505_093904_20250429_220007_leafrust113_jpg.rf.05979101de966e936d473e80ecd7d4aa.jpg",
+        "disease": "Wheat Brown-rust"
+    },
+    {
+        "image": "src/deseasedetect/images\\20250505_093904_20250429_220007_leafrust113_jpg.rf.05979101de966e936d473e80ecd7d4aa.jpg",
+        "disease": "Wheat Brown-rust",
+        "info": "Wheat leaf rust (Puccinia triticina) is a fungal disease that affects wheat, barley, rye stems, leaves and grains. In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss. ... Small brown pustules develop on the leaf blades in a random scatter distribution. They may group ..."
+    }
+]

@@ -1,0 +1,1350 @@
+[
+    {
+        "image": "20250429_214516_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "box": [
+            59,
+            28,
+            578,
+            609
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250429_214516_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "box": [
+            98,
+            0,
+            114,
+            44
+        ],
+        "label": "Wheat Healthy"
+    }
+][
+    {
+        "image": "20250429_215043_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "box": [
+            59,
+            28,
+            578,
+            609
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250429_215043_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "box": [
+            98,
+            0,
+            114,
+            44
+        ],
+        "label": "Wheat Healthy"
+    }
+][
+    {
+        "image": "20250429_215630_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "box": [
+            59,
+            28,
+            578,
+            609
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250429_215630_healthy15_jpg.rf.0b2a5d8824961d845438819a787bd97a.jpg",
+        "box": [
+            98,
+            0,
+            114,
+            44
+        ],
+        "label": "Wheat Healthy"
+    }
+][
+    {
+        "image": "20250429_220007_leafrust113_jpg.rf.05979101de966e936d473e80ecd7d4aa.jpg",
+        "box": [
+            378,
+            58,
+            144,
+            144
+        ],
+        "label": "Wheat Brown-rust"
+    }
+][
+    {
+        "image": "20250429_220235_leafrust213_jpg.rf.706e040d9970cc568d2eea68c4cd9349.jpg",
+        "box": [
+            8,
+            46,
+            624,
+            531
+        ],
+        "label": "Wheat Brown-rust"
+    }
+][
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            61,
+            548,
+            138,
+            76
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            451,
+            13,
+            123,
+            49
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            415,
+            71,
+            112,
+            49
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            251,
+            292,
+            142,
+            50
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            531,
+            396,
+            57,
+            37
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            419,
+            562,
+            63,
+            29
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            214,
+            354,
+            136,
+            44
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            300,
+            229,
+            115,
+            47
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            108,
+            493,
+            117,
+            41
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            156,
+            412,
+            139,
+            70
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            149,
+            432,
+            136,
+            50
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            341,
+            187,
+            110,
+            31
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            567,
+            349,
+            52,
+            28
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            379,
+            133,
+            107,
+            37
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250429_220624_yellow_rust.jpg",
+        "box": [
+            370,
+            135,
+            111,
+            45
+        ],
+        "label": "Wheat-Yellow-rust"
+    }
+][
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            423,
+            486,
+            80,
+            125
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            61,
+            8,
+            184,
+            468
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            349,
+            279,
+            48,
+            359
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            268,
+            128,
+            67,
+            361
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            123,
+            570,
+            198,
+            41
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            267,
+            153,
+            69,
+            486
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            67,
+            489,
+            188,
+            72
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220718_brown.jpg",
+        "box": [
+            194,
+            621,
+            147,
+            18
+        ],
+        "label": "Wheat Brown-rust"
+    }
+][
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            423,
+            486,
+            80,
+            125
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            61,
+            8,
+            184,
+            468
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            349,
+            279,
+            48,
+            359
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            268,
+            128,
+            67,
+            361
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            123,
+            570,
+            198,
+            41
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            267,
+            153,
+            69,
+            486
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            67,
+            489,
+            188,
+            72
+        ],
+        "label": "Wheat Brown-rust"
+    },
+    {
+        "image": "20250429_220732_brown.jpg",
+        "box": [
+            194,
+            621,
+            147,
+            18
+        ],
+        "label": "Wheat Brown-rust"
+    }
+][][
+    {
+        "image": "20250501_145514_20250429_220231_leafrust213_jpg.rf.706e040d9970cc568d2eea68c4cd9349.jpg",
+        "box": [
+            8,
+            46,
+            624,
+            531
+        ],
+        "label": "Wheat Brown-rust"
+    }
+][
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            348,
+            169,
+            22,
+            53
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            443,
+            718,
+            69,
+            256
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            337,
+            109,
+            20,
+            34
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            342,
+            229,
+            36,
+            53
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            709,
+            1,
+            58,
+            255
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            298,
+            341,
+            23,
+            29
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            351,
+            309,
+            36,
+            38
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            322,
+            63,
+            16,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            301,
+            204,
+            29,
+            23
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            336,
+            99,
+            19,
+            42
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            696,
+            497,
+            24,
+            43
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            353,
+            307,
+            32,
+            32
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            328,
+            552,
+            31,
+            25
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            307,
+            203,
+            23,
+            32
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            368,
+            773,
+            36,
+            245
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152305_image_test.jpg",
+        "box": [
+            288,
+            270,
+            43,
+            15
+        ],
+        "label": "Wheat Smut"
+    }
+][
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            348,
+            169,
+            22,
+            53
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            443,
+            718,
+            69,
+            256
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            337,
+            109,
+            20,
+            34
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            342,
+            229,
+            36,
+            53
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            709,
+            1,
+            58,
+            255
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            298,
+            341,
+            23,
+            29
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            351,
+            309,
+            36,
+            38
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            322,
+            63,
+            16,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            301,
+            204,
+            29,
+            23
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            336,
+            99,
+            19,
+            42
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            696,
+            497,
+            24,
+            43
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            353,
+            307,
+            32,
+            32
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            328,
+            552,
+            31,
+            25
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            307,
+            203,
+            23,
+            32
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            368,
+            773,
+            36,
+            245
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_152531_image_test.jpg",
+        "box": [
+            288,
+            270,
+            43,
+            15
+        ],
+        "label": "Wheat Smut"
+    }
+][
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            564,
+            379,
+            60,
+            239
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            226,
+            405,
+            131,
+            231
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            314,
+            0,
+            94,
+            143
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            283,
+            156,
+            110,
+            100
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            243,
+            355,
+            126,
+            41
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            255,
+            278,
+            132,
+            54
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            258,
+            276,
+            135,
+            40
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            252,
+            294,
+            137,
+            49
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            313,
+            0,
+            101,
+            19
+        ],
+        "label": "Wheat-Yellow-rust"
+    },
+    {
+        "image": "20250501_152645_image (4).jpg",
+        "box": [
+            249,
+            309,
+            139,
+            34
+        ],
+        "label": "Wheat-Yellow-rust"
+    }
+][
+    {
+        "image": "20250501_152823_image (2).jpg",
+        "box": [
+            197,
+            15,
+            361,
+            104
+        ],
+        "label": "wheat Stem Rust"
+    },
+    {
+        "image": "20250501_152823_image (2).jpg",
+        "box": [
+            224,
+            245,
+            367,
+            137
+        ],
+        "label": "wheat Stem Rust"
+    },
+    {
+        "image": "20250501_152823_image (2).jpg",
+        "box": [
+            250,
+            397,
+            324,
+            128
+        ],
+        "label": "wheat Stem Rust"
+    },
+    {
+        "image": "20250501_152823_image (2).jpg",
+        "box": [
+            197,
+            137,
+            378,
+            89
+        ],
+        "label": "wheat Stem Rust"
+    }
+][
+    {
+        "image": "20250501_154107_image_test3.jpg",
+        "box": [
+            0,
+            15,
+            257,
+            177
+        ],
+        "label": "Wheat Healthy"
+    }
+][
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            348,
+            169,
+            22,
+            53
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            443,
+            718,
+            69,
+            256
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            337,
+            109,
+            20,
+            34
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            342,
+            229,
+            36,
+            53
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            709,
+            1,
+            58,
+            255
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            298,
+            341,
+            23,
+            29
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            351,
+            309,
+            36,
+            38
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            322,
+            63,
+            16,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            301,
+            204,
+            29,
+            23
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            336,
+            99,
+            19,
+            42
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            696,
+            497,
+            24,
+            43
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            353,
+            307,
+            32,
+            32
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            328,
+            552,
+            31,
+            25
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            307,
+            203,
+            23,
+            32
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            368,
+            773,
+            36,
+            245
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250501_154324_image_test.jpg",
+        "box": [
+            288,
+            270,
+            43,
+            15
+        ],
+        "label": "Wheat Smut"
+    }
+][][
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            348,
+            168,
+            24,
+            55
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            342,
+            229,
+            36,
+            54
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            337,
+            109,
+            19,
+            34
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            443,
+            717,
+            69,
+            256
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            298,
+            341,
+            24,
+            29
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            709,
+            2,
+            58,
+            255
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            349,
+            310,
+            37,
+            36
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            301,
+            205,
+            28,
+            22
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            322,
+            64,
+            16,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            442,
+            714,
+            325,
+            303
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            287,
+            271,
+            48,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            309,
+            270,
+            28,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            350,
+            169,
+            18,
+            47
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_184651_20250501_152300_image_test.jpg",
+        "box": [
+            328,
+            552,
+            31,
+            25
+        ],
+        "label": "Wheat Smut"
+    }
+][
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            348,
+            168,
+            24,
+            55
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            342,
+            229,
+            36,
+            54
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            337,
+            109,
+            19,
+            34
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            443,
+            717,
+            69,
+            256
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            298,
+            341,
+            24,
+            29
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            709,
+            2,
+            58,
+            255
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            349,
+            310,
+            37,
+            36
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            301,
+            205,
+            28,
+            22
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            322,
+            64,
+            16,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            442,
+            714,
+            325,
+            303
+        ],
+        "label": "Wheat Healthy"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            287,
+            271,
+            48,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            309,
+            270,
+            28,
+            15
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            350,
+            169,
+            18,
+            47
+        ],
+        "label": "Wheat Smut"
+    },
+    {
+        "image": "20250502_190439_20250501_152300_image_test.jpg",
+        "box": [
+            328,
+            552,
+            31,
+            25
+        ],
+        "label": "Wheat Smut"
+    }
+][
+    {
+        "image": "20250502_190915_20250501_154103_image_test3.jpg",
+        "box": [
+            0,
+            0,
+            258,
+            194
+        ],
+        "label": "Wheat Healthy"
+    }
+][
+    {
+        "image": "20250505_093904_20250429_220007_leafrust113_jpg.rf.05979101de966e936d473e80ecd7d4aa.jpg",
+        "box": [
+            378,
+            58,
+            144,
+            144
+        ],
+        "label": "Wheat Brown-rust"
+    }
+]

@@ -1,0 +1,23 @@
+tasks:
+  - name: classify_insect_task
+    description: >
+      Classify images of wheat plants to identify insects.
+      Ensure robustness to varying image quality and conditions.
+    expected_output: >
+      A list of predictions indicating the insect class for each input image.
+    agent: insect_classifier_agent
+    tools:
+      - InsectClassifier
+    input:
+      image_paths:
+        - "images/insect1.jpg"
+        - "images/insect2.jpg"
+
+  - name: enrich_with_info_task
+    description: >
+      Use web search to get more information about the identified insect.
+    agent: insect_classifier_agent
+    tools:
+      - WebsiteSearchTool
+    input:
+      insect_name: "{{classify_insect_task.output.predictions[0].insect}}"  # Fetch the insect name from classification task

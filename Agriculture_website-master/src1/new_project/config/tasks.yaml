@@ -1,0 +1,18 @@
+tasks:
+- agent: wheat_growth_agent
+  description: Analyze the wheat image and predict the growth stage.
+  expected_output: The wheat growth stage is [Stage Name]
+  input:
+    image_path: C:\Users\user\Desktop\celia\3IA\sem2\deep\acting_phase\Agriculture_website-master\Agriculture_website-master\Agriculture_website-master\src1\new_project\config\images\20250505_094008_20250430_163724_image2.png
+  name: PredictWheatStage
+  tools:
+  - Wheat Growth Stage Prediction Tool
+- agent: wheat_growth_agent
+  description: Provide practical farming advice based on the predicted wheat growth
+    stage.
+  expected_output: Advice [Advice text]
+  input:
+    growth_stage: '{{PredictWheatStage.output.growth_stage}}'
+  name: GiveWheatAdvice
+  tools:
+  - Wheat Growth Advice Tool

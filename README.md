@@ -48,6 +48,24 @@ This project is hosted on GitHub using **GitHub Education tools** and aims to su
 | **Growth Monitoring**     | Time-series analysis of wheat growth                          |
 | **Soil Quality**          | Classification models based on pH, moisture, and nutrients via satellite/drone images |
 
+## ☁️ Model Access
+To keep the repository lightweight and manageable, each contributor has hosted their pre-trained models on their own Google Drive.
+🔗 You’ll find a dedicated Google Drive link in each module’s folder or README file. Simply follow the link to download and use the model associated with that specific axis.
+
+This approach ensures modularity and keeps the repository clean.
+Model Links:
+Disease Detection Model: [Google Drive Link](https://drive.google.com/drive/folders/1RFmHAqxii8_ut0i-W2dJ5QUA8dmnL2nN?usp=sharing)
+
+Pest Detection Model: 
+
+Weed Detection Model: 
+
+Production Quality Assessment Model: 
+
+Growth Monitoring Model: 
+
+Soil Quality Analysis Model: 
+
 ## 🏫 Acknowledgment
 This project was created by a student team at **Esprit School of Engineering** under the Challenge-Based Learning methodology. 
 It was completed under the guidance of [Professor Ines](ines.slimen@esprit.tn) and [Professor Dorsaf](dorsaf.hrizi@esprit.tn).

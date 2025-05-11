@@ -65,7 +65,7 @@ Production Quality Assessment Model: [Google Drive Link](https://drive.google.co
 
 Growth Monitoring Model: [Google Drive Link](https://drive.google.com/drive/folders/1xe4for2IwYNu2D6DHqHkdcPKnpur55tb?usp=sharing)
 
-Soil Quality Analysis Model: 
+Satellite image segmentation Model: [https://drive.google.com/drive/folders/1Siug2bJ5S9Cm1_ViaUczUgfAKSbi7swB?usp=sharing]
 
 ## 🏫 Acknowledgment
 This project was created by a student team at **Esprit School of Engineering** under the Challenge-Based Learning methodology. 

@@ -60,7 +60,7 @@ Disease Detection Model: [Google Drive Link](https://drive.google.com/drive/fold
 
 Pest Detection Model: 
 
-Weed Detection Model: 
+Weed Detection Model: [Google Drive Link](https://drive.google.com/drive/folders/1Vbs7BkXmoEfkTGkJokMwZKHZGm4mNQWt)
 
 Production Quality Assessment Model: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1CYbKplHu54aFZKRaMGtqSFN5mvcdyThG) 
 

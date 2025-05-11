@@ -63,7 +63,7 @@ Weed Detection Model:
 
 Production Quality Assessment Model: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1CYbKplHu54aFZKRaMGtqSFN5mvcdyThG) 
 
-Growth Monitoring Model: 
+Growth Monitoring Model: [Google Drive Link](https://drive.google.com/drive/folders/1xe4for2IwYNu2D6DHqHkdcPKnpur55tb?usp=sharing)
 
 Soil Quality Analysis Model: 
 

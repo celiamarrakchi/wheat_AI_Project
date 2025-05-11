@@ -61,7 +61,7 @@ Pest Detection Model:
 
 Weed Detection Model: 
 
-Production Quality Assessment Model: 
+Production Quality Assessment Model: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1CYbKplHu54aFZKRaMGtqSFN5mvcdyThG) 
 
 Growth Monitoring Model: 
 
